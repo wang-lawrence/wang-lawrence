@@ -43,7 +43,7 @@ I'm Lawrence Wang, a full-stack developer in the Greater Los Angeles area.
 ## 🔗 Let's Connect! 
 
 - <a href="https://www.linkedin.com/in/wang-lawrence/">LinkedIn</a>
-- <a href="https://www.linkedin.com/in/wang-lawrence/overlay/1635538339884/single-media-viewer/?profileId=ACoAAAs01cIB6liufmNuvIJ19Uev6P-194PfIIE">Resume</a>
+- <a href="https://www.linkedin.com/in/wang-lawrence/overlay/1635538981461/single-media-viewer/?profileId=ACoAAAs01cIB6liufmNuvIJ19Uev6P-194PfIIE">Resume</a>
 - <a href="mailto:lwang801118@gmail.com">Email</a>
 <!--
 **wang-lawrence/wang-lawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
