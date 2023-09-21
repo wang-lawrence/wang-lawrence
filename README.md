@@ -34,8 +34,7 @@ I'm Lawrence Wang, a full-stack developer in the Greater Los Angeles area.
 </div>
 
 ##
-
-[![Lawrence's github stats](https://github-readme-stats.vercel.app/api?username=wang-lawrence&hide=stars,contribs,issues&show_icons=true&bg_color=f4f7f7&title_color=65c0ba&icon_color=ffbd39&text_color=216583)](https://github.com/wang-lawrence/)
+<!--- [![Lawrence's github stats](https://github-readme-stats.vercel.app/api?username=wang-lawrence&hide=stars,contribs,issues&show_icons=true&bg_color=f4f7f7&title_color=65c0ba&icon_color=ffbd39&text_color=216583)](https://github.com/wang-lawrence/) --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wang-lawrence&layout=compact&bg_color=f4f7f7&title_color=65c0ba)](https://github.com/wang-lawrence/)
 
